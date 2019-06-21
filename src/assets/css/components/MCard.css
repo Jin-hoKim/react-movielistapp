@@ -99,6 +99,7 @@
 }
 
 .mCardSynopsis {
+    max-height: 210px;
     font-style: italic;
     font-size: 13px;
     line-height: 15px;
